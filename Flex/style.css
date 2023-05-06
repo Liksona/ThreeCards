@@ -1,0 +1,30 @@
+*{
+    color:white;
+}
+body {
+    margin: 0;
+    height: 100vh;
+   background-color: rgb(rgb(31, 6, 79),);
+   background-repeat: no-repeat;
+}
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 11vh;
+    background-color: rgb(rgb(49, 8, 51),)
+}
+span{
+    margin: 25px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+span:hover{
+    color: brown;
+   
+}
+ i :hover {
+    color: gold;
+ }
